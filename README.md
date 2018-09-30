@@ -1,15 +1,19 @@
 Chase Tullar
 2297037
 CPSC350
-Assignment1
+Assignment2 - GOL
 
-The program starts out asking the user to insert the path of a dna file. Then will compute probability of the nucleotides 'A' 'G' 'T' 'C' and their respective bigrams. then it finds the variance, mean, sum, and standard deviation of the string lengths and prints everything to the file chaseTullar.txt
+The program begins asking the user if they want to chose their game board
+or have one read from a file. Then the user can define the size and amount of 'x's of the random
+array if they chose that. The initial generation is then computed.
 
-I had trouble trying to create the Gaussian distribution with the string lengths and finding the variance. I was unable to ask the user to process another file because the other program components took too long for me.
+I couldn't figure out how to check the neighbors of the surrounding points on the grid.
+I had trouble at first reading in the file. I also couldn't compute future generations.
+I attempted to include all parts of the assignment but was unfortunately unable to
+comprehend them in time.
 
-I used Stack Overflow, the C++ API, my roommate James Kistner and these websites to help me:
-http://www.cplusplus.com/doc/tutorial/files/
-https://stackoverflow.com/questions/1727881/how-to-use-the-pi-constant-in-c
-http://www.cplusplus.com/forum/beginner/73642/
-https://stackoverflow.com/questions/440133/how-do-i-create-a-random-alpha-numeric-string-in-c# Tullar_Assignment1
-# Tullar_Assignment1
+I used Stack Overflow, the C++ API, my friend Marcus Hyun and these websites to help me:
+https://stackoverflow.com/questions/21129480/reading-multiple-data-types-on-one-line-using-c
+http://www.cplusplus.com/forum/beginner/202864/
+http://www.cplusplus.com/forum/beginner/26963/
+https://stackoverflow.com/questions/9878965/rand-between-0-and-1/31091422# Assignment2GOL
