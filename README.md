@@ -18,3 +18,4 @@ http://www.cplusplus.com/forum/beginner/202864/
 http://www.cplusplus.com/forum/beginner/26963/
 https://stackoverflow.com/questions/9878965/rand-between-0-and-1/31091422# Assignment2GOL
 # Assignment2GOL
+# GOL
